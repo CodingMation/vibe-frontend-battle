@@ -92,7 +92,29 @@ Welcome to my submission for **Frontend Battle 2.0 - Round 1**, hosted by ***Web
 
 ## 📦 How to Run Locally
 
+For Windows
 ```bash
 git clone https://github.com/CodingMation/vibe-frontend-battle.git
 cd vibe-frontend-battle
+
+# For Windows
+start index.html
+
+# OR: Open in VS Code
+code .
+# Then open index.html with Live Server
+```
+For Linux
+```bash
+git clone https://github.com/CodingMation/vibe-frontend-battle.git
+cd vibe-frontend-battle
+
+xdg-open index.html
+```
+For macOS
+```bash
+git clone https://github.com/CodingMation/vibe-frontend-battle.git
+cd vibe-frontend-battle
+
 open index.html
+```
